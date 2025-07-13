@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+opencv-python
+matplotlib
+transformers
+lime
+gradio
+Pillow
+git+https://github.com/facebookresearch/detectron2.git
